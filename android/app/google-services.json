@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087262926089",
+    "project_id": "toollife-a47fc",
+    "storage_bucket": "toollife-a47fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087262926089:android:cc7cc89046147b13e29fd8",
+        "android_client_info": {
+          "package_name": "com.toollife.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSolLTTyJmcU1Vd0aEzngUEhKdtv5eOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
